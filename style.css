@@ -1,0 +1,73 @@
+/* HIDE MASTHEAD */
+#masthead {
+	display: none;
+}
+
+/* LOGIN STYLING */
+.um-icon-android-checkbox-outline {
+	color: #cd1d18 !important;
+}
+
+#um-submit-btn {
+	background-color: #cd1d18;
+}
+
+/* STYLE KLIPPEKORT */
+#vis-klip-btn {
+	float: left;
+	position: absolute;
+	margin-top: 10px;
+	background-color: #cd1d18;
+	border-radius: 10px;
+	padding: 2px 20px;
+	font-family: 'pridi';
+	font-weight: 600;
+	text-transform: uppercase;
+	border: none;
+}
+
+#klippekort-streg {
+	display: block;
+	margin: 0 auto;
+	height: 10px;
+}
+
+#klippekort-header {
+	text-align: center;
+	font-family: pridi;
+	font-weight: 600;
+	font-size: 24px;
+	color: #666;
+	margin-bottom: 0px;
+}
+
+#vis-klip-container {
+	box-shadow: 0 0px 3px rgba(0,0,0,0.2);
+	border-radius: 8px;
+	margin-top: 10px;
+	padding: 0 0 5px 10px;
+}
+.klip-beskrivelse h3 {
+	font-family: pridi;
+	font-size: 28px;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.klip-beskrivelse p {
+	font-family: quicksand;
+	padding-bottom: 0;
+
+}
+
+.klip-beskrivelse hr{
+	background-color: #dedede;
+	margin: -15px 10px 5px 0;
+}
+
+#klip-placeholder {
+	text-align: center;
+	margin: 0;
+	padding-top: 5px;
+	font-family: 'quicksand';
+}
